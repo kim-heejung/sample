@@ -1,4 +1,5 @@
 /build/
+
 ### Eclipse ###
 .metadata
 bin/
@@ -122,3 +123,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+!*/WEB-INF/lib/*
